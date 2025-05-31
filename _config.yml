@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Xin Luo"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xin Luo"
+  name             : "Xin Luo (雒鑫)"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : "   " # "Short biography for the left-hand sidebar"
   location         : "Suzhou, Jiangsu, PRC"
   employer         : "University of Science and Technology of China"
   uri              : # URL
