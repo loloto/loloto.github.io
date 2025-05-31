@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2021-10-usghifu
 excerpt: "An early work on ultrasound image segmentation and registration for guided HIFU treatment."
 date: 2021-10-29
-venue: 'CISP-BMEI 2021'
+venue: 'CISP-BMEI'
 paperurl: ''
 slidesurl: ''
 bibtexurl: ''
