@@ -1,7 +1,7 @@
 ---
 title: "Segmentation and Registration of Ultrasound Images of Uterine Fibroids for USgHIFU"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2021-10-usghifu
 excerpt: "An early work on ultrasound image segmentation and registration for guided HIFU treatment."
 date: 2021-10-29
