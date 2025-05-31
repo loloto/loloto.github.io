@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-07-slideclip
 excerpt: '<span style="color:red;font-weight:bold">Oral</span> CCF-C pruning method for vision-language models like CLIP.'
 date: 2025-07-10
-venue: 'IJCNN 2025'
+venue: 'IJCNN'
 paperurl: ''
 slidesurl: ''
 bibtexurl: ''
