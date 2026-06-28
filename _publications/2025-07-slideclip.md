@@ -9,7 +9,7 @@ venue: 'IJCNN'
 paperurl: ''
 slidesurl: ''
 bibtexurl: ''
-citation: 'Shi Jiaxin, Luo Xin, Zhou S. Kevin. (2025). "Slide-CLIP: A Simple and Effective Method for CLIP Pruning." <i>IJCNN 2025</i>.'
+citation: 'Jiaxin Shi, Xin Luo, S. Kevin Zhou. (2025). "Slide-CLIP: A Simple and Effective Method for CLIP Pruning." <i>IJCNN 2025</i>, Oral. DOI: 10.1109/IJCNN64981.2025.11229356.'
 ---
 
 Slide-CLIP introduces a pruning method for CLIP-style vision-language models. It demonstrates effective compression while preserving vision-language alignment performance.
