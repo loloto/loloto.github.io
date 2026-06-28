@@ -244,15 +244,13 @@
   }
 
   li {
-    display: flex;
-    align-items: flex-start;
     white-space: normal;
-    overflow-wrap: anywhere;
+    overflow-wrap: break-word;
+    word-break: break-word;
   }
 
   a {
-    display: flex;
-    align-items: flex-start;
+    display: block;
     margin-bottom: 5px;
     padding-right: 5px;
     padding-top: 2px;
@@ -260,14 +258,12 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+    white-space: normal;
+    overflow-wrap: break-word;
+    word-break: break-word;
 
     &:hover {
       text-decoration: underline;
     }
-  }
-
-  .icon-pad-right {
-    flex: 0 0 auto;
-    margin-top: 0.2em;
   }
 }
