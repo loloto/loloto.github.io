@@ -6,7 +6,7 @@ permalink: /publication/2025-07-slideclip
 authors: 'Jiaxin Shi<sup>*</sup>, Xin Luo<sup>*</sup>, S. Kevin Zhou<sup>†</sup>'
 excerpt: 'A simple pruning method for CLIP-style vision-language models that preserves vision-language alignment under compression.'
 date: 2025-07-10
-venue: 'IJCNN (CCF-C, Oral)'
+venue: 'IJCNN (CCF-C, <span style="color:red;font-weight:bold">Oral</span>)'
 paperurl: ''
 slidesurl: ''
 bibtexurl: ''
