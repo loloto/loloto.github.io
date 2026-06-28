@@ -3,7 +3,8 @@ title: "Segmentation and Registration of Ultrasound Images of Uterine Fibroids f
 collection: publications
 category: conferences
 permalink: /publication/2021-10-usghifu
-excerpt: "An early work on ultrasound image segmentation and registration for guided HIFU treatment."
+authors: 'Xin Luo, Qianwen Huang, Xiang Ji, Jingfeng Bai'
+excerpt: "A segmentation and registration pipeline for ultrasound-guided HIFU treatment of uterine fibroids."
 date: 2021-10-29
 venue: 'CISP-BMEI'
 paperurl: ''

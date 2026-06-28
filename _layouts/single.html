@@ -36,6 +36,11 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.collection == 'publications' %}
+          {% if page.authors %}
+            <p>{{ page.authors }}</p>
+          {% endif %}
+          <p><i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
@@ -47,7 +52,16 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-        {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
+        {% if page.collection == 'publications' %}
+          {% if page.paperurl or page.slidesurl or page.bibtexurl %}
+            <p style="font-size: smaller">
+            {% assign link_printed = false %}
+            {% if page.paperurl %}<a href="{{ page.paperurl }}">Paper</a>{% assign link_printed = true %}{% endif %}
+            {% if page.slidesurl %}{% if link_printed %} | {% endif %}<a href="{{ page.slidesurl }}">Slides</a>{% assign link_printed = true %}{% endif %}
+            {% if page.bibtexurl %}{% if link_printed %} | {% endif %}<a href="{{ page.bibtexurl }}">BibTeX</a>{% endif %}
+            </p>
+          {% endif %}
+        {% elsif page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
         {% elsif page.citation and page.paperurl and page.slidesurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>
