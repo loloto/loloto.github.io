@@ -244,12 +244,15 @@
   }
 
   li {
+    display: flex;
+    align-items: flex-start;
     white-space: normal;
     overflow-wrap: anywhere;
   }
 
   a {
-    display: block;
+    display: flex;
+    align-items: flex-start;
     margin-bottom: 5px;
     padding-right: 5px;
     padding-top: 2px;
@@ -261,5 +264,10 @@
     &:hover {
       text-decoration: underline;
     }
+  }
+
+  .icon-pad-right {
+    flex: 0 0 auto;
+    margin-top: 0.2em;
   }
 }
