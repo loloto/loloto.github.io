@@ -26,6 +26,7 @@ Internship experience
 * **Tencent, Hunyuan Large Model AI Infra**, Multimodal Large Model Inference Algorithm Intern, 2025.10--2026.06
   * Sparse attention and inference acceleration for long-context multimodal large models.
   * Stem was accepted by ICML 2026 as a poster.
+  * Contributed to AngelSlim, a technical report and open-source toolkit for large model compression.
 * **Huawei Technologies, Noah's Ark Lab**, Algorithm Intern, 2025.07--2025.10
   * Structured pruning for multimodal and vision foundation models.
   * RASP-SAM was accepted by MICCAI 2026.
