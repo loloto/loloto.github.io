@@ -10,6 +10,8 @@ redirect_from:
 I am **Xin Luo (雒鑫)**, a Ph.D. student in Computer Technology at the
 [University of Science and Technology of China](https://www.ustc.edu.cn/){:target="_blank" rel="noopener"},
 advised by [Prof. S. Kevin Zhou](https://scholar.google.com/citations?hl=zh-CN&user=8eNm2GMAAAAJ){:target="_blank" rel="noopener"}.
+I received my M.Eng. from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/){:target="_blank" rel="noopener"}
+and my B.Eng. from [Jilin University](https://www.jlu.edu.cn/){:target="_blank" rel="noopener"}.
 
 My research focuses on **efficient multimodal AI systems**, especially model compression and
 inference acceleration for large-scale vision, language, and vision-language models.
