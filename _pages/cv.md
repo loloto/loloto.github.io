@@ -21,29 +21,16 @@ Education
 * **B.Eng., Energy and Power Engineering**, Jilin University, College of Automotive Engineering, 2014.09--2018.07
   * GPA: 3.5/4.0
 
-Research interests
+Internship experience
 ======
-* Multimodal large model compression and inference acceleration
-* Sparse attention and efficient long-context inference
-* Weight pruning, token sparsification, structured pruning, and quantization
-* Efficient vision-language and vision foundation models
-
-Research and industry experience
-======
-* **University of Science and Technology of China**, Research on multimodal large model and vision foundation model compression, 2022.09--present
-  * Work on pruning, sparse attention, token sparsification, quantization, and inference acceleration.
 * **Tencent, Hunyuan Large Model AI Infra**, Multimodal Large Model Inference Algorithm Intern, 2025.10--2026.06
-  * Work on sparse attention and inference acceleration for long-context multimodal large models.
+  * Sparse attention and inference acceleration for long-context multimodal large models.
+  * Stem was accepted by ICML 2026 as a poster.
 * **Huawei Technologies, Noah's Ark Lab**, Algorithm Intern, 2025.07--2025.10
-  * Work on structured pruning for multimodal and vision foundation models.
-* **Automated Surgical Robot Design and Navigation Algorithms**, Shanghai Jiao Tong University × Zhonghui Medical × National Center for Maternal and Child Health, 2019.09--2022.03
-  * Work on ultrasound image segmentation, registration, and navigation for USgHIFU.
-  
-Skills
-======
-* **Programming:** Python, PyTorch, basic CUDA, C/C++, Java
-* **Tools:** Linux, Conda, Git, LaTeX, Transformers-style model workflows
-* **Research keywords:** sparsity, pruning, quantization, KV cache, inference acceleration
+  * Structured pruning for multimodal and vision foundation models.
+  * RASP-SAM was developed into an ICLR 2026 submission.
+* **China Electronics Corporation**, Algorithm Intern, 2023.10--2023.12
+  * ChatGLM fine-tuning and deployment for intelligent customer service scenarios.
 
 Publications
 ======
