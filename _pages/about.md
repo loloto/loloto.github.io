@@ -25,6 +25,7 @@ Research interests
 
 Selected work
 ======
+* **RASP-SAM: Residual-Aware Structured Pruning with Dual-Stream Alignment for Adapter-Tuned SAM**, MICCAI 2026
 * **Stem: Rethinking Causal Information Flow in Sparse Attention**, ICML 2026, Poster
 * **AD-BTS: Adaptive Dual-Branch Token Sparsification via Spatial Information Density**, ICML 2026, Poster
 * **ICP: Immediate Compensation Pruning for Mid-to-High Sparsity**, CVPR 2025, Highlight
@@ -32,6 +33,7 @@ Selected work
 
 News
 ======
+* **2026.06**: RASP-SAM was accepted to MICCAI 2026.
 * **2026.06**: Stem was accepted to ICML 2026 as a poster.
 * **2026.06**: AD-BTS was accepted to ICML 2026 as a poster.
 * **2025.06**: ICP appeared at CVPR 2025 as a Highlight paper.

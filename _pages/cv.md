@@ -28,7 +28,7 @@ Internship experience
   * Stem was accepted by ICML 2026 as a poster.
 * **Huawei Technologies, Noah's Ark Lab**, Algorithm Intern, 2025.07--2025.10
   * Structured pruning for multimodal and vision foundation models.
-  * RASP-SAM was developed into an ICLR 2026 submission.
+  * RASP-SAM was accepted by MICCAI 2026.
 * **China Electronics Corporation**, Algorithm Intern, 2023.10--2023.12
   * ChatGLM fine-tuning and deployment for intelligent customer service scenarios.
 
