@@ -33,6 +33,17 @@ Selected work
 * **ICP: Immediate Compensation Pruning for Mid-to-High Sparsity**, CVPR 2025, <span style="color:red;font-weight:bold">Highlight</span>
 * **Slide-CLIP: A Simple and Effective Method for CLIP Pruning**, IJCNN 2025, <span style="color:red;font-weight:bold">Oral</span>
 
+Open-source contributions
+======
+**[AngelSlim](https://github.com/Tencent/AngelSlim){:target="_blank" rel="noopener"}** &nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/Tencent/AngelSlim?style=social)](https://github.com/Tencent/AngelSlim){:target="_blank" rel="noopener"}
+
+A comprehensive open-source toolkit for **large model compression** from Tencent Hunyuan AI Infra,
+unifying quantization, speculative decoding, sparse attention, token pruning, and distillation into one
+deployment-ready pipeline. As a co-author of the
+[technical report](https://arxiv.org/abs/2602.21233){:target="_blank" rel="noopener"},
+I contributed to its sparse-attention and compression modules.
+
 News
 ======
 * **2026.06**: RASP-SAM was accepted to MICCAI 2026.
